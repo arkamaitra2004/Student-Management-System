@@ -7,6 +7,7 @@ A console-based Student Management System developed in Java to manage student re
 - Search Student by ID
 - Delete Student by ID
 - Display All Students
+- Update Student details
 
 ## Technologies Used
 - Java
